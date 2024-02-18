@@ -5,6 +5,6 @@
     <title>This is first view</title>
 </head>
 <body>
-This is first view
+This is FIRST view!
 </body>
 </html>

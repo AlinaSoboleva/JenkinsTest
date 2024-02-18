@@ -5,6 +5,8 @@
     <title>This is second view</title>
 </head>
 <body>
-This is second view! :)
+This is SECOND view! :)
+<br><br>
+
 </body>
 </html>
