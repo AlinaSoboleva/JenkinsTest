@@ -8,6 +8,6 @@ public class TestController {
 
     @RequestMapping
     public String getView() {
-        return "second-view";
+        return "first-view";
     }
 }
